@@ -1,1 +1,2 @@
-# First-repository
+# Tic tac toe
+# Практическое задание 6.1 из курса DS
